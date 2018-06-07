@@ -1,0 +1,14 @@
+#canvas{
+
+  border-right: 1px solid rgb(51, 114, 180);
+}
+
+#canvas #chart{
+
+  height: 25%;
+}
+
+#canvas .title{
+  text-align: center;
+  font-size: 24px;
+}

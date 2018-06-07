@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Kamachiy</title>
+  <meta charset="UTF-8">
+  <meta name="format-detection" content="telephone=no"/>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/grid.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/camera.css">
+  <!-- JS -->
+  <script src="js/jquery.js"></script>
+  <script src="js/jquery-migrate-1.2.1.js"></script>
+
+  <!--[if lt IE 9]>
+  <html class="lt-ie9">
+  <div style=' clear: both; text-align:center; position: relative;'>
+    <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+      <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+           alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+    </a>
+  </div>
+  <script src="js/html5shiv.js"></script>
+  <![endif]-->
+
+  <script src='js/device.min.js'></script><!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><div class="page">
+  <!--========================================================
+                            HEADER
+  =========================================================-->
+<header>
+    <div id="stuck_container" class="stuck_container">
+      <div class="container">
+        <div class="box_aside">
+          <ol>
+            <li><img src="images/logoempresa.png"width="173" height="125"><a href="./"></li>
+          </ol>
+        </div>
+
+        <nav class="nav">
+          <div class="navbar_top">
+           
+              <ol>
+                <h6 class="clr-primary"><img src="images/Phone_31105.png" width="26" height="22">3053249551 - <span class="">
+                  </li>
+                  <img src="images/MTLojo6Ta.png" width="27" height="27">ventas@kamachiy.com /kamachiysas@gmail.com</span>
+                <a href="https://www.facebook.com/kamachiy/"><img src="images/face.png" width="30" height="30">
+                 <a href="https://twitter.com/kamachiysas">
+                <img src="images/rrss_twitter_morado.png" width="32" height="32"></h6>
+            </ol>
+ <div class="login_links">
+            </div>
+            <ul class="inline-list">
+              <li><a href="#"><span class="fa fa-facebook-square"></span></a></li>
+              <li><a href="#"><span class="fa fa-twitter-square"></span></a></li>
+              <li><a href="#"><span class="fa fa-google-plus-square"></span></a></li>
+            </ul>
+          </div>
+          <ul class="sf-menu" data-type="navbar">
+            <li class="active">
+              <a href="index.html">Inicio</a>
+            </li>
+            <li><a href="index-1.html">Nosotros</a>
+              <ul>
+                <li>
+       
+                  
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="index-2.html">Software</a>
+            <ul>
+                <li>
+                     
+                      <a href="index-2.html">A la medida</a>
+                </li>
+                <li>
+                      <a href="index-service.html">Kamachiy_Service</a>
+                </li>
+                <li>
+                  <a href="index-idukay.html">Kamachiy_Idukay</a>
+              </li>
+                <li>
+                  <a href="index-research.html">Kamachiy-Research</a>
+                </li>
+              </ul>
+            </li>
+                <li>
+                
+ <!--             <a href="index-3.html">Productos</a>
+              <ul>
+                <li>
+                     
+                      <a href="#">Domótica</a>
+                </li>
+                  </ul>
+            </li>
+                <li>
+                -->
+             
+              <a href="#">Academia</a>
+           <ul>
+                <li>
+                      
+                  <a href="http://aulasvirtuales.kamachiy.com/my/"TARGET="_BLANK"
+                 >Cursos</a>
+               </li>
+                  </ul>
+                </li>
+                <li>
+                   
+             
+                   
+              <a href="index-4.html">Contáctenos</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>   <!--========================================================
+                            CONTENT
+  =========================================================-->
+  <main>
+    <section class="well"> </section>
+
+    <section class="well-1">
+      <div class="container">
+        <div class="row">
+          <div class="grid_6 wow fadeInUp" data-wow-delay=".5s">
+            <h2 align="center" class="clr-second">
+              Software a la medida</h2>
+            <p align="justify">Diseñamos e implementamos plataformas tecnológicas, aplicaciones web, aplicaciones móviles, teniendo en cuenta sus necesidades. <ul class="marked-list-2">
+              <li>
+                <a href="#">Ajustado a sus necesidades</a>
+              </li>
+              <li>
+                <a href="#">Flexible y funcional</a>
+              </li>
+              <li>
+                <a href="#">Económico</a>
+              </li>
+            </ul>
+            <a href="index-2.html" class="btn btn__skin1">
+            Más Información            </a>
+          </div>
+          <div class="grid_6 wow fadeInRight" data-wow-delay=".5s">
+            <img src="images/page-1_img1.png" class="mg-add" alt="">
+          </div>
+        </div>
+      </div>      
+    </section>
+
+    <section class="parallax well-2" data-url="images/parallax1.jpg" data-mobile="true">
+      <div class="container">
+        <div class="row">
+          <div class="grid_8 wow fadeInUp" data-wow-delay=".5s">
+            <h2>
+              <span class="clr-second">Kamachiy-Idukay<br>
+              </span> 
+              <span class="text-style_2"><strong>Educación y Tecnología</strong></span></h2>
+            <div class="row offset-2">
+              <div class="grid_6">
+                <p class="grid_6">Mejora los procesos de enseñanza y aprendizaje interactuando con herramientas tecnológicas.</p>
+                <p class="grid_6">Robótica, realidad aumentada, realidad virtual, multimedia, juegos mecatrónicos</p>
+                <a href="index-idukay.html" class="btn">
+              Más Información                </a></div>
+            </div>              
+          </div>
+        </div>
+      </div>
+    </section>
+  <section class="well"> </section>
+
+    <section class="well-1">
+      <div class="container">
+        <div class="row">
+          <div class="grid_6 wow fadeInUp" data-wow-delay=".5s">
+            <h2 align="center" class="clr-second">
+              Kamachiy-Service</h2>
+            <p align="justify">Plataforma tecnológica para la gestión y administración de visitas y/o servicios domiciliarios y/o técnicos.<ul class="marked-list-2">
+              <li>
+                <a href="#">Sus clientes recibirán información completa del servicio que está solicitando</a>
+              </li>
+              <li>
+                <a href="#">Los clientes podrán establecer la urgencia del servicio que requieren, así como horarios y fechas.</a>
+              </li>
+              <li>
+                <a href="#">Asignación de técnicos, informe de técnicos disponbles, Ubicación de técnicos, Envío de foto y datos al cliente</a>
+              </li>
+            </ul>
+            <a href="index-service.html" class="btn btn__skin1">
+            Más Información            </a>
+          </div>
+          <div class="grid_6 wow fadeInRight" data-wow-delay=".5s">
+            <img src="images/service4.png" class="mg-add" alt="">
+          </div>
+        </div>
+      </div>      
+    </section>
+
+    <section class="well-2">
+      <div class="container">
+        <h2 class="clr-second">Academia e Investigación</h2>
+        <div class="row">
+          <div class="grid_4 wow fadeInLeft">
+            <div class="box_cnt">
+              <span class="fa fa-female"></span>
+              <h4><img src="images/lapiz.png" width="80" height="80">Cursos a tu medida</h4>
+              <p>Actualizate en desarrollo de software y aplicaciones móviles. Programación de arduino y
+Raspberry Pi. Inteligencia artificial. Construcción de animatrones.</p>
+               <!--<a href="#" class="btn">Más Información</a> -->
+            </div>
+          </div>
+          <div class="grid_4">
+            <div class="box_cnt">
+              <span class="fa fa-shopping-cart"></span>
+              <h4><img src="images/microscope-icon_130344113.jpg" width="86" height="77">Proyectos de Investigación</h4>
+              <p>Consultoría y capacitación en  presentación de proyectos de investigación y desarrollo tecnológico para entidades privadas y públicas. </p>
+            <!--  <a href="#" class="btn">Más Información</a> -->
+            </div>
+          </div>
+          <div class="grid_4 wow fadeInRight">
+            <div class="box_cnt">
+              <span class="fa fa-thumbs-o-up"></span>
+              <h4><img src="images/profesores_redondo.png" width="84" height="81">Producción intelectual</h4>
+              <p>Consultoría y capacitación en Escritura de artículos científicos. Transferencia de tecnología. Registro de software y plantas piloto. Derechos de autor.</p>
+             <!--  <a href="#" class="btn">Más Información</a> -->
+            </div>
+          </div>
+        </div>
+      </div>
+   
+<!--
+   
+    </section>
+
+    
+  
+    
+    <section class="well-4 bg-3">
+      <div class="container">
+        <ul class="flex-list wow fadeInLeft " data-wow-delay=".5s"> 
+          <li><a href="#"><img src="images/page-1_img4.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img5.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img6.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img7.png" alt=""></a></li>                  
+        </ul>
+        <ul class="flex-list wow fadeInRight" data-wow-delay=".5s"> 
+          <li><a href="#"><img src="images/page-1_img8.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img9.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img10.png" alt=""></a></li>
+          <li><a href="#"><img src="images/page-1_img11.png" alt=""></a></li>                  
+        </ul>
+      </div>
+    </section> 
+  </main>
+
+ --> <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer>
+    <div class="container">
+      Email Marketing © <span id="copyright-year"></span>.
+      <a href="index-5.html">Privacy Policy</a>
+      <!-- {%FOOTER_LINK} -->
+    </div>
+  </footer>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

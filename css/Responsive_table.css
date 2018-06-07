@@ -1,0 +1,23 @@
+@media screen and (max-width: 1024px){
+  /*body{
+    font-size: 11px;
+  }*/
+  #modal #button_text{
+    display: none;
+  }
+  #modal #div_button{
+
+  }
+}
+
+@media screen and (max-width: 768px){
+  /*body{
+    font-size: 11px;
+  }*/
+  #modal #button_text{
+    display: none;
+  }
+  #modal #div_button{
+
+  }
+}

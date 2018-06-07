@@ -1,0 +1,185 @@
+/*
+    Document   : table.css
+    Created on : 1/09/2016, 08:35:05 AM
+    Author     : jherrera
+    Description:
+        Estilo para tablas con scroll
+
+table-col2: 2 columnas
+table-col3: 3 columnas
+table-col4: 4 columnas
+table-col5: 5 columnas
+
+Ej:
+    <table class="table-col4 table table-bordered" id="paginar">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody id="result"></tbody>
+    </table>
+    <div id="paginador" class="paginador"></div>
+    <!--Para mostrar la paginación, se debe llamar a la función javascript : mostrar_paginador(registros);-->
+*/
+.table{
+    font-size: 12px;
+/*    min-width: 800px;
+    overflow: auto;*/
+}
+
+.table-scroll thead, .table-scroll tbody, .table-scroll tr, .table-scroll td, .table-scroll th { display: block;}
+
+.table-scroll tbody {
+    height: 350px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.table-scroll tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+.table-scroll thead th {
+    height: 30px;
+}
+
+.table tbody tr td{
+    text-align: left;
+}
+
+.table thead tr th{
+    text-align: left;
+}
+
+
+
+.table-col2 tbody td, .table-col2 tbody th, .table-col2 thead th {
+    width: 50%;
+    float: left;
+    font-size: 12px;
+}
+.table-col3 tbody td, .table-col3 tbody th, .table-col3 thead th {
+    width: 33.333%;
+    float: left;
+    font-size: 12px;
+}
+.table-col4 tbody td, .table-col4 tbody th, .table-col4 thead th {
+    width: 25%;
+    float: left;
+    font-size: 12px;
+}
+
+.table-col5 tbody td, .table-col5 tbody th, .table-col5 thead th {
+    width: 20%;
+    float: left;
+    font-size: 12px;
+}
+
+.table-col6 tbody td, .table-col6 tbody th, .table-col6 thead th {
+    width: 16.666%;
+    float: left;
+    font-size: 12px;
+}
+
+.table-col7 tbody td, .table-col7 tbody th, .table-col7 thead th {
+    width: 14.28571428571429%;
+    float: left;
+    font-size: 12px;
+}
+
+.table-col8 tbody td, .table-col8 tbody th, .table-col8 thead th {
+    width: 12.5%;
+    float: left;
+    font-size: 12px;
+}
+
+.table-button {
+    /*padding-left: 15px;*/
+}
+
+.table-filtro {
+/*    margin-top: 10px;
+    margin-bottom: 0px;*/
+    /*border-top: 1px solid #CCCCCC*/
+}
+
+
+
+.table-filtro .filtro {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+.table-col1-followed {
+    margin-right: 10px;
+    float: left;
+     border:0px;
+}
+
+.table-col1-followed > thead > tr > td.active, .table > tbody > tr > td.active, .table > tfoot > tr > td.active, .table > thead > tr > th.active, .table > tbody > tr > th.active, .table > tfoot > tr > th.active, .table > thead > tr.active > td, .table > tbody > tr.active > td, .table > tfoot > tr.active > td, .table > thead > tr.active > th, .table > tbody > tr.active > th, .table > tfoot > tr.active > th {
+    background-color: #dbdbdb;
+     /*-moz-border-radius: 6px;
+ border-radius: 6px;*/
+}
+
+
+.clickable-row {
+    cursor:pointer;
+     font-size: 12px;
+}
+
+.table-col1-followed tbody tr td:last-child, .table-col1-followed tbody tr th:last-child {
+    text-align: left;
+
+}
+
+
+table.scroll {
+    width: 280px; /* 140px * 5 column + 16px scrollbar width */
+    border-spacing: 0;
+    border: 2px solid black;
+}
+
+table.scroll tbody,
+table.scroll thead tr { display: block; }
+
+table.scroll tbody {
+    height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+table.scroll tbody td,
+table.scroll thead th {
+    width: 140px;
+    border-right: 1px solid black;
+}
+
+table.scroll thead th:last-child {
+    width: 156px; /* 140px + 16px scrollbar width */
+}
+
+.table-responsive {
+    height: 350px;
+    overflow: auto;
+}
+
+.table-scroll > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 0px solid #ddd;
+    padding-bottom: 32px;
+}
+
+.table-scroll {
+    min-width: 800px;
+}

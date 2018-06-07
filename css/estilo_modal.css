@@ -1,0 +1,21 @@
+#modal{
+	width: 100%;
+
+}
+
+#modal #cuerpo{
+	width: 75%;
+
+}
+
+#modal #estado, #pais, #barrio {
+	display: block;
+}
+
+#modalUbicaciones #cuerpo{
+	width: 60%;
+}
+
+#total_terceros {
+	font-size: 20px;
+}

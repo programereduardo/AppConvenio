@@ -1,0 +1,23 @@
+/* 
+    Document   : permisos.css
+    Created on : 27/09/2016, 10:50:05 AM
+    Author     : jherrera
+    
+*/
+
+
+.glyphicon-menu-right:before{
+    cursor: pointer;
+}
+
+.glyphicon-menu-left:before{
+    cursor: pointer;
+}
+
+.glyphicon-menu-left:hover{
+   color: red;
+}
+
+.glyphicon-menu-right:hover{
+   color: green;
+}
